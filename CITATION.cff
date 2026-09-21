@@ -1,0 +1,32 @@
+title: 'Simulink-IEC-61400-27-DLL-Builder'
+version: 0.1.0
+license: "MIT"
+type: software
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Becker
+    given-names: Gregor
+    orcid: "https://orcid.org/0000-0001-8803-6873"
+    affiliation: Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+  - family-names: Frauenknecht
+    given-names: Dominik
+    orcid: "https://orcid.org/0009-0008-6796-9883"
+    affiliation: Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+  - family-names: Mehlmann
+    given-names: Gert
+    orcid: "https://orcid.org/0000-0002-3132-6615"
+    affiliation: Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+  - family-names: Jaeger
+    given-names: Johann
+    orcid: "https://orcid.org/0000-0003-2186-9189"
+    affiliation: Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+  - family-names: Luther
+    given-names: Matthias
+    orcid: "https://orcid.org/0000-0002-9678-7244"
+    affiliation: Institute of Electrical Energy Systems, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+keywords:
+  - Matlab^®^/Simulink^®^
+  - IEC 61400-27
+  - Dynamic-Link Library
+  - Power System Simulation
+  - Control System Modeling
