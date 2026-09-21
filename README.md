@@ -4,7 +4,7 @@
 
 [![Documentation Status](https://app.readthedocs.org/projects/simulink-dll-builder/badge/?version=latest&style=flat%20-%20default)](https://simulink-dll-builder.readthedocs.io/en/latest/?badge=latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/1199266658.svg)](https://doi.org/10.5281/zenodo.22869511)
+[[![DOI](https://zenodo.org/badge/1199266658.svg)](https://doi.org/10.5281/zenodo.22869511)](https://doi.org/10.5281/zenodo.22869512)
 
 ## Software Description
 
